@@ -34,7 +34,6 @@
 * Spatial Assessment Impact of Tsunami Hazard on the Transportation Infrastructure in Phuket South of Thailand. [(2022)](https://doi.org/10.1007/978-981-19-9768-6_52)
 * Trends in rainfall and hydrometeorological disasters in new capital city of Indonesia from long-term satellite-based precipitation products. [(2022)](https://doi.org/10.1016/j.rsase.2022.100827)
 * Spatial modeling of tidal flood due to the fishpond to tidal waves in Bengkalis, Indonesia.  [(2022)](https://doi.org/10.1007/978-981-19-0308-3_72)
-* Impact of coastal flood on building, infrastructure, and community adaptation in Bukit Bestari Tanjungpinang. [(2021)](https://ejournal.upi.edu/index.php/gea/article/view/38911)
   
 ## Conference Presentations and Training (_2022-Latest_)
 * Advanced Earthquake Hazard Analysis & Engineering Applications, 2026. (Geo-course).
