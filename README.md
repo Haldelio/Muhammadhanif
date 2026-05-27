@@ -16,7 +16,7 @@
 ## Research Scholar
 * Research Scholar. Center Earth Observation Technology for Agriculture, Department of Geography. (_2025_). Mahasarakham University, Thailand.
   
-## Activitie
+## Activitiy
 - 6 January 2026 // I am happy to announce that I'm selected as Silver Category Award, The Outstanding Thesis 2025, Filed of Science and Technology STEM, by GS Khon Kaen University.
 
 ## Degree Research
