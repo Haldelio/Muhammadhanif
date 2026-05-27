@@ -14,9 +14,9 @@
   - Study program of Geography, minor Physical Geography
 
 ## Research Scholar
-* Research Scholars. Center Earth Observation Technology for Agriculture, Department of Geography. (_2025_). Mahasarakham University, Thailand.
+* Research Scholar. Center Earth Observation Technology for Agriculture, Department of Geography. (_2025_). Mahasarakham University, Thailand.
   
-## Activities
+## Activitie
 - 6 January 2026 // I am happy to announce that I'm selected as Silver Category Award, The Outstanding Thesis 2025, Filed of Science and Technology STEM, by GS Khon Kaen University.
 
 ## Degree Research
