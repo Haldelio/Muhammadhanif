@@ -13,7 +13,7 @@
 - B.Sc., State University of Padang, Indonesia
   - Study program of Geography, minor Physical Geography
 
-## Researche Scholar
+## Research Scholar
 * Research Scholars. Center Earth Observation Technology for Agriculture, Department of Geography. (_2025_). Mahasarakham University, Thailand.
   
 ## Activities
