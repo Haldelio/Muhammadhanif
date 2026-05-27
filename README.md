@@ -1,4 +1,4 @@
-#### Currently, he focuses on research involving Synthetic Aperture Radar (SAR) remote sensing and Geospatial Artificial Intelligence (Geo-AI) for Earth observation and geohazard analysis and modelling. His research specifically investigates phenomena such as crustal deformation, volcanic deformation within the field of volcanology, seismic processes in seismology, and a range of natural hazard events. He is also open for research collaboration in related fields.
+#### Currently, he focuses on research involving Synthetic Aperture Radar (SAR) remote sensing and Geospatial Artificial Intelligence (Geo-AI) for Earth observation, geohazard analysis and modelling. His research specifically investigates phenomena such as crustal deformation, volcanic deformation within the field of volcanology, seismic processes in seismology, and a range of natural hazard events. He is also open for research collaboration in related fields.
 
 #### muhammadhanif.m@cassia.kku.ac.th
 [Google Scholar](https://scholar.google.co.id/citations?user=ts-xt_cAAAAJ&hl=id) || 
@@ -14,15 +14,15 @@
   - Study program of Geography, minor Physical Geography
 
 ## Researcher Scholar
-* Research Scholars. Center Earth Observation Technology for Agriculture, Department of Geography. (_2025_). Mahasarakham University, Thailand.
+* Researc Scholars. Center Earth Observation Technology for Agriculture, Department of Geography. (_2025_). Mahasarakham University, Thailand.
   
 ## Activities
-- 6 January 2026 // I am happy to announce that I'm selected as Silver Category The Outstanding Thesis Award 2025 Filed of Science and Technology STEM
+- 6 January 2026 // I am happy to announce that I'm selected as Silver Category Award, The Outstanding Thesis 2025, Filed of Science and Technology STEM, by GS Khon Kaen University.
 
 ## Degree Research
-* Master Degree Thesis. Potential of Ground Deformation Monitoring and Trend Analysis of Sinabung Volcano Using DInSAR and Geo-AI. [(2024)](https://kkuir.kku.ac.th/jspui/handle/123456789/39335)
+* Research Master Degree Thesis. Potential of Ground Deformation Monitoring and Trend Analysis of Sinabung Volcano Using DInSAR and Geo-AI. [(2024)](https://kkuir.kku.ac.th/jspui/handle/123456789/39335)
   
-## Publications (_2021-Latest_)
+## Publications (_2022-Latest_)
 * Weed classification in sugarcane fields in Northeast Thailand from multi-temporal Sentinel-1 and Sentinel-2 data together with random forest algorithm. [(2025)](https://doi.org/10.1016/j.srs.2025.100352)
 * Evaluation of Flood Susceptibility Mapping in Kedah With AHP and GIS: A Case Study Of Kota Setar And Padang Terap, Kedah Malaysia. [(2025)](https://doi.org/10.21837/pm.v23i36.1706)
 * Surface Deformation Monitoring and Forecasting of Sinabung Volcano Using Interferometry Synthetic Aperture Radar and Forest-based Algorithm. [(2024)](https://doi.org/10.1016/j.rsase.2024.101288)
@@ -43,5 +43,5 @@
 * International Conference of Geoscience and Remote Sensing Technology. *Oral Presentator*. 2024. Padang, Indonesia.
 * EEAT (Environmental Engineering Association of Thailand). *Oral Presentator*. [(2023)](https://www.eeat.or.th/index.php/eeat-conference) Pattya, Thailand.
 * Indonesian Volcano Activity Monitoring and Management, 2023. (ITB, Indonesia).
-* International Geoinformatics Summer School. *Online* [(2022)](https://liesmars.whu.edu.cn/) Wuhan University, China. 
+* International Geoinformatics Summer School. [(2022)](https://liesmars.whu.edu.cn/) Wuhan University, China. 
 
