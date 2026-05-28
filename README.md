@@ -18,7 +18,6 @@
   
 ## Activitiy
 - 6 January 2026 // I am happy to announce that I'm selected as Silver Category Award, The Outstanding Thesis 2025, Filed of Science and Technology STEM, by GS Khon Kaen University.
-- 10 March 2025// I am happy to announce that I was accepted to join the official research team with a contract agreement at EOT research unite at the Department of Geography, Mahasrakam University, for the period March-November 2025.
 
 ## Research
 * Spatial Statistic and Machine Learning for Seismic Activities in Myanmar, 2026. *Status on going*. Khon Kaen University
