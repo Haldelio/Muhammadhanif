@@ -18,9 +18,10 @@
   
 ## Activitiy
 - 6 January 2026 // I am happy to announce that I'm selected as Silver Category Award, The Outstanding Thesis 2025, Filed of Science and Technology STEM, by GS Khon Kaen University.
+- 10 March 2025// I am happy to announce that I was accepted to join the official research team with a contract agreement at the Department of Geography, Mahasrakam University, for the period March-November 2025.
 
 ## Degree Research
-* Research Master Degree Thesis. Potential of Ground Deformation Monitoring and Trend Analysis of Sinabung Volcano Using DInSAR and Geo-AI. [(2024)](https://kkuir.kku.ac.th/jspui/handle/123456789/39335)
+* Master Degree Thesis Research. Potential of Ground Deformation Monitoring and Trend Analysis of Sinabung Volcano Using DInSAR and Geo-AI. [(2024)](https://kkuir.kku.ac.th/jspui/handle/123456789/39335)
   
 ## Publications (_2022-Latest_)
 * Weed classification in sugarcane fields in Northeast Thailand from multi-temporal Sentinel-1 and Sentinel-2 data together with random forest algorithm. [(2025)](https://doi.org/10.1016/j.srs.2025.100352)
@@ -39,9 +40,16 @@
 * Advanced Earthquake Hazard Analysis & Engineering Applications, 2026. (Geo-course).
 * Basic Earthquake Risk Analysis (PSHA) & Hazard Mapping, 2026. (Geo-course).
 * International Conference of Geoscience and Remote Sensing Technology. *Moderator for Keynote Speaker*. 2025. Padang, Indonesia.
-* Machine Learning for Disasters Management, 2025. (IEEE GRSS).
+* Machine Learning for Disasters Management, *audience*, 2025. [(IEEE GRSS)](https://www.grss-ieee.org/event/machine-learning-and-earth-observation-for-natural-disasters-management/).
 * International Conference of Geoscience and Remote Sensing Technology. *Oral Presentator*. 2024. Padang, Indonesia.
 * EEAT (Environmental Engineering Association of Thailand). *Oral Presentator*. [(2023)](https://www.eeat.or.th/index.php/eeat-conference) Pattya, Thailand.
-* Indonesian Volcano Activity Monitoring and Management, 2023. (ITB, Indonesia).
+* Indonesian Volcano Activity Monitoring and Management, 2023. *audience* (ITB, Indonesia).
 * International Geoinformatics Summer School. [(2022)](https://liesmars.whu.edu.cn/) Wuhan University, China. 
+
+## Other activities (_2022-Latest_)
+* Editorial Team Journal of Advanced Computer Knowledge and Algorithms, [(2026)](https://ojs.unimal.ac.id/jacka/Editorial_Team)
+* Reviewer Journal of Geoscience, Engineering, Environment, and Technology, since [(2022- now)](https://journal.uir.ac.id/index.php/JGEET/reviewer)
+* Invited Reviewer Asian Journal of Geographical Research, 2026.
+* Invited Reviewer Journal Environmental Science and Pollution Research. Springer Nature, 2025.
+* Invited Reviewer Journal Geography, Environment, Sustainability, 2026.
 
