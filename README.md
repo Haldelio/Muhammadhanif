@@ -20,8 +20,10 @@
 - 6 January 2026 // I am happy to announce that I'm selected as Silver Category Award, The Outstanding Thesis 2025, Filed of Science and Technology STEM, by GS Khon Kaen University.
 - 10 March 2025// I am happy to announce that I was accepted to join the official research team with a contract agreement at EOT research unite at the Department of Geography, Mahasrakam University, for the period March-November 2025.
 
-## On-Going Research
-* Spatial Statistic and Machine Learning for Seismic Activities in Myanmar *on going*
+## Research
+* Spatial Statistic and Machine Learning for Seismic Activities in Myanmar, 2026. *Status on going*. Khon Kaen University
+* Mapping Rubber Plantations Using Multi-Temporal Sentinel-1 and Sentinel-2 Data With a Machine Learning Approach. [(_2025_)](https://human.msu.ac.th/eot/). Mahasarakham University, Thailand.
+* Potential of Ground Deformation Monitoring and Trend Analysis of Sinabung Volcano Using DInSAR and Geo-AI. [(2024)](https://kkuir.kku.ac.th/jspui/handle/123456789/39335). Khon Kaen University. Thailand
   
 ## Publications (_2022-Latest_)
 * Weed classification in sugarcane fields in Northeast Thailand from multi-temporal Sentinel-1 and Sentinel-2 data together with random forest algorithm. [(2025)](https://doi.org/10.1016/j.srs.2025.100352)
